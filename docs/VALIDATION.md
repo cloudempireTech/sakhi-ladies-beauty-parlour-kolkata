@@ -11,3 +11,5 @@ Verified in the cloud workspace on 6 October 2026 (Asia/Kolkata), before publica
 - Optimized genuine photographs and explicitly labelled category illustrations as responsive WebP assets. Fonts are self-hosted with their SIL Open Font Licenses.
 
 Screenshots for client sharing are captured separately from the published site after GitHub Pages reports its actual URL. The website enquiry form opens a draft; visitors decide whether to send it in WhatsApp.
+
+Structured data was parsed as valid JSON on every page; FAQ schema matches all seven visible questions and answers. Sitemap XML contains all eight pages and robots references its canonical location.
