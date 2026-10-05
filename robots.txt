@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cloudempiretech.github.io/sakhi-ladies-beauty-parlour-kolkata/sitemap.xml
