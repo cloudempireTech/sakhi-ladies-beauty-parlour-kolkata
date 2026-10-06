@@ -279,3 +279,22 @@ p { margin: 0; }
 @media(max-width:620px) { .photo-grid { grid-template-columns:1fr; } .photo-grid img { height:450px; } }
 
 @media(max-width:620px) { .hero-orb { right:0; } .hero { overflow:clip; } }
+
+/* Original Sakhi identity and accessible icon channels */
+.brand-logo {width:56px;height:56px;object-fit:contain;background:#fff9f1;border-radius:50%;padding:4px;flex-shrink:0;}
+.footer-logo {display:block;width:72px;height:72px;object-fit:contain;background:#fff9f1;border-radius:50%;padding:5px;margin-bottom:12px;}
+.icon-channel {display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;min-width:44px;min-height:44px;border-radius:50%;background:#176b45;color:white!important;text-decoration:none;}
+.wa-icon {width:25px;height:25px;fill:none;stroke:currentColor;stroke-width:1.8;}
+.whatsapp-float {width:58px;height:58px;padding:13px;justify-content:center;}
+.icon-channel:focus-visible,.whatsapp-float:focus-visible {outline:3px solid #f8be5b;outline-offset:4px;}
+.review-grid {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;perspective:1200px;}
+.review-card {padding:32px;border-radius:28px;box-shadow:var(--shadow-soft);transition:transform .35s,box-shadow .35s;}
+.review-card:hover {transform:translateY(-6px) rotateY(1deg);}
+.review-stars {letter-spacing:.13em;color:#815320;font-size:1.1rem;margin-bottom:20px;}
+.review-summary {font-family:"Cormorant Garamond",Georgia,serif;font-size:1.6rem;line-height:1.35;margin-bottom:26px;}
+.review-meta,.review-label,.review-note {font-size:.85rem;color:var(--muted);}
+.review-label {margin-top:12px;text-transform:uppercase;letter-spacing:.08em;}
+.review-note {max-width:850px;margin:28px 0;line-height:1.7;}
+@media(max-width:900px) {.review-grid {grid-template-columns:1fr;}.nav-links .icon-channel {width:46px;}}
+@media(max-width:620px) {.brand-logo {width:46px;height:46px;}.whatsapp-float {width:54px;height:54px;}}
+@media(prefers-reduced-motion:reduce) {.review-card,.photo-grid figure,.photo-grid img,.icon-channel,.whatsapp-float {transition:none;transform:none!important;}}

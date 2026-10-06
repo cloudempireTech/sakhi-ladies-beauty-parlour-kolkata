@@ -33,7 +33,7 @@ Prompts required no text, brands, identifiable real people, real premises, medic
 ## Claims intentionally omitted
 
 - Opening hours: the Sunday `24 hours` value appears unusual and was not independently confirmed.
-- Ratings and reviews: directory counts differ and no individual review was verified.
+- Historical directory review counts differ; do not use stale counts. Three individual reviews were directly inspected on the verified Google Maps listing on 6 October 2026 (details below).
 - Pricing/offers: third-party offers may expire or change.
 - Email, original website, Instagram, Facebook, and LinkedIn: none were supplied or reliably matched. WhatsApp registration was confirmed in the signed-in cloud browser on 6 October 2026 for the exact sheet and Maps number +91 98040 68895. Its blank chat and contact panel displayed the matching number; ownership is corroborated by the sheet, Maps, BharatiBiz and Nearbuy. No test message was sent.
 - Nearbuy lists an additional phone number not present in the sheet; it was omitted to preserve the sheet as the authority.
@@ -63,3 +63,25 @@ Prompts required no text, brands, identifiable real people, real premises, medic
 - sakhi-google-6: https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qwll0EhoRSoT1ZsbmLpbTPo9fo_lZ4LEIwNjzEIU0-Mru4nIAQ2O5pAyoYE7wRK5AvSqiPKgrRBAzUol_uJP5GDjXUdwLAUiWT8VOUkmv-HbLKLYmyyckxV0zu99v43ixcfC1Y=w1200; gallery https://www.google.com/maps/?cid=14520142318834126760; Earlier Sakhi gallery photograph of beauty equipment and product shelves inside the salon
 
 Hero: genuine earlier curled-hairstyle photo (sakhi-google-4), responsive WebP. Three generated category illustrations remain labelled in Gallery; wellness illustration is also used on relevant service sections.
+
+## Latest identity, gallery and reviews check — 6 October 2026
+
+The exact user-supplied Google Maps place (CID 14520142318834126760) matches row 6, address and phone. It displayed 283 photos and 70 reviews, with a limited-view notice. The full photo collection requires Google sign-in. More reviews did not reveal the remaining 67 in this browser. Do not claim all 283 images or all 70 reviews were imported.
+
+User-supplied original listing: https://www.google.com/maps/place/Sakhi+Ladies+Beauty+Parlour-/data=!4m2!3m1!1s0x0:0xc981e8820a398fa8?sa=X&ved=1t:2428&hl=en-IN&ictx=111
+
+Eight publicly accessible still-photo entries and two video entries were inspected. Five suitable stills were already on the site. The before/after composite was excluded; the mirror-station photo duplicates `sakhi-interior-3`. One distinct interior photo was added as `sakhi-google-interior-7-*`: March 2023, uploaded by Sakhi Ladies Beauty Parlour- Best Salon and Parlour, showing a chair, mirror, shelves and decorated wall. Source file: https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmhvISgkVuWxZYcvZXZ4_OIi_xtlw8cAzsd35PwXNheSlo__C-v_N_geHhdgrF6TpGzznEDdj0ABrMVyhJFnPK2PzbbfeGRrimDneYyONiSU-dfLk-GGIxA0swN8PQj4tokoc4=s677-k-no
+
+Nine distinct genuine business photographs are now displayed, plus three explicitly labelled generated category illustrations. Earlier photographs do not establish current stock, team, products or availability.
+
+### Google review evidence
+
+Source for all three: the exact Google Maps listing above, checked 6 October 2026. Faithful short summaries are displayed with author, Google attribution, original relative date and rating. They are labelled summaries, not direct quotations. No aggregate review schema or claims of Google-verification were added.
+
+- Puja Sengupta, 5 stars, “9 months ago”: enjoyed a facial and praised the team’s service.
+- Anjali Singh, 5 stars, “2 months ago”: praised friendly staff and owner.
+- Aditi Mukherjee, 5 stars, “a year ago”: enjoyed haircut/spa treatment and praised the welcoming team.
+
+### Proposed original logo
+
+No usable verified official logo was found in the supplied sources, exact Maps gallery or matching public research. An original plum-and-copper S/floral/hair-flow logo was created with the built-in image-generation tool for this website concept. It is not claimed to be existing or approved business branding. `assets/images/sakhi-logo.png`, Apple touch icon and favicon variants derive from that same concept. Prompt: “Original premium compact Sakhi salon S monogram with flowering petal and flowing hair curve; deep plum and copper; crisp readable silhouette; no additional words, scene, mockup or shadows; transparent background.”
